@@ -1,6 +1,5 @@
 
-
-🔭 ##I'm a physics of the Universe student in University of Pisa! ✨
+## I'm a physics of the Universe student in University of Pisa! ✨🔭
 
 <!--
 **luciapapalini/luciapapalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
