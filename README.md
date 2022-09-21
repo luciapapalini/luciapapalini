@@ -1,5 +1,6 @@
 
 ## I'm a physics of the Universe student in University of Pisa! ✨🔭
+I'm currently working to my master's thesis, concerning deep learning for gravitational waves.
 
 <!--
 **luciapapalini/luciapapalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
