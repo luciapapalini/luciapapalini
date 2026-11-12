@@ -1,5 +1,5 @@
 
-## PhD in Gravitational Wave physics and high performance computing ✨🔭.
+## PhD in Gravitational Wave physics and high performance computing ✨🔭
 
 <!--
 **luciapapalini/luciapapalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
